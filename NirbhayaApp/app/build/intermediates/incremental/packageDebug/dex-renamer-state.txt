@@ -1,0 +1,7 @@
+#Tue Nov 08 12:37:12 CST 2016
+base.0=C\:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7dcf8c0ececb3c9b122e8dcf7411a265df119996
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b9db03911557e9473e4a7d9ead562fe3f7789ee5\\classes.dex
+base.1=C\:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b9db03911557e9473e4a7d9ead562fe3f7789ee5
+file.0=C\:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7dcf8c0ececb3c9b122e8dcf7411a265df119996\\classes.dex

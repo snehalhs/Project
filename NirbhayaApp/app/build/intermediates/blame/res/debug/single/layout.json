@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\setting.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\setting.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_red.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\fragment_red.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_page.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\start_page.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_help.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\fragment_help.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reg_screen.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\reg_screen.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yellow.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\fragment_yellow.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_green.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\fragment_green.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_splash_screen.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\main_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gpson.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\gpson.xml"
+    },
+    {
+        "merged": "C:\\snehal\\CS442\\NirbhayaApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "C:\\snehal\\CS442\\NirbhayaApp\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    }
+]
